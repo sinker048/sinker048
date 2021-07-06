@@ -8,8 +8,7 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything you want
-- 📫 How to reach me: ... 
-- 😄 Pronouns: 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Cardists.  
 
 
