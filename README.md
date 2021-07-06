@@ -1,7 +1,5 @@
-### Hello World, I'm Tony 👋 
+### Hello World, I'm Tony. 👋 
 
-
-**sinker048/sinker048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### I'm a student, Developer, Cardists, and Magician!!
 
