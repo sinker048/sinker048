@@ -3,10 +3,10 @@
 
 ### I'm a student, Developer, Cardists, and Magician!!
 
-- 🔭 I’m currently working on National Chengchi University.
+- 🔭 I graduated from National Chengchi University.
 - 🌱 I’m currently learning Image Processing, Deep Learning, Statistics, Computer Vision and so on.
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on open source.
+- 🤔 I’m looking for help with data scientist.
 - 💬 Ask me about ... Anything you want
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Cardists.  
