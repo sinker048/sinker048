@@ -4,7 +4,7 @@
 ### I'm a student, Developer, Cardists, and Magician!!
 
 - 🔭 I graduated from National Chengchi University.
-- 🌱 I’m currently learning Image Processing, Deep Learning, Statistics, Computer Vision and so on.
+- 🌱 I’m currently learning Data Scientist, Image Processing, Deep Learning, Statistics, Computer Vision and so on.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with data scientist.
 - 💬 Ask me about ... Anything you want
