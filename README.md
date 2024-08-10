@@ -1,7 +1,7 @@
 ### Hello World, I'm Aaron. 👋 
 
 
-### I'm a student, Developer, Cardists, and Magician!!
+### I'm a data scitentist!!
 
 - 🔭 I graduated from National Chengchi University.
 - 🌱 I’m currently learning Data Scientist, Image Processing, Deep Learning, Statistics, Computer Vision and so on.
